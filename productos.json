@@ -233,8 +233,8 @@
   },
   {
     "id": 45,
-    "nombre": "CABLE VGA A VGA 1.5 M",
-    "precio": 1600,
+    "nombre": "CABLE VGA A VGA 3 M",
+    "precio": 2400,
     "foto": "https://i.postimg.cc/0jhJrHd1/CAB-45019.jpg",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
@@ -602,7 +602,7 @@
   {
     "id": 160,
     "nombre": "LINTERNA MINI CAMUFLADA USB RECARGABLE",
-    "precio": 3500,
+    "precio": 3750,
     "foto": "https://i.postimg.cc/yxVqghXs/LINTERNAESTUCHE.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -922,7 +922,7 @@
   {
     "id": 235,
     "nombre": "TERMO ACERO TIPO STANLEY CON MANIJA 1.2L",
-    "precio": 19600,
+    "precio": 20100,
     "foto": "https://i.postimg.cc/hPzMsfV8/termoacero.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -953,8 +953,8 @@
   },
   {
     "id": 248,
-    "nombre": "AURICULAR MANOS LIBRES  AU-11010",
-    "precio": 1350,
+    "nombre": "AURICULAR MANOS LIBRES  AU-11021",
+    "precio": 1380,
     "foto": "https://i.postimg.cc/zBFSBTGb/AURITAKE.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
@@ -1105,8 +1105,8 @@
   },
   {
     "id": 297,
-    "nombre": "AURICULAR MANOS LIBRES AU-11011",
-    "precio": 1350,
+    "nombre": "AURICULAR MANOS LIBRES AU-11022",
+    "precio": 1380,
     "foto": "https://i.postimg.cc/y8MLGjKJ/auri11011.jpg",
     "categoria": "AURICULARES C/CABLE",
     "suspendido": false
@@ -1138,7 +1138,7 @@
   {
     "id": 305,
     "nombre": "LUZ PLACARD SET X 3 LUCES A PILA",
-    "precio": 7900,
+    "precio": 8260,
     "foto": "https://i.postimg.cc/ydJccg9P/setplacadluz.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -1146,7 +1146,7 @@
   {
     "id": 309,
     "nombre": "ZAPATILLA EXAGONAL X 5 BOCAS + 2 USB",
-    "precio": 9000,
+    "precio": 10490,
     "foto": "https://i.postimg.cc/3NSs6qNP/zapaflor.jpg",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -1298,7 +1298,7 @@
   {
     "id": 350,
     "nombre": "CABLE ROYALCELL USB A I PHONE 5 AMP. MALLADO",
-    "precio": 1850,
+    "precio": 1750,
     "foto": "https://i.postimg.cc/Kv3SsjSm/IMG-8044.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1602,7 +1602,7 @@
   {
     "id": 398,
     "nombre": "PINZA UNIVERSAL DE 8 PULGADAS",
-    "precio": 5800,
+    "precio": 4800,
     "foto": "https://i.postimg.cc/K82gmFgy/IMG-8109.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1781,7 +1781,7 @@
     "precio": 3300,
     "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 430,
@@ -2986,7 +2986,7 @@
   {
     "id": 1779835327348,
     "nombre": "CARGADOR CABEZAL SAMSUNG 45W USB C ",
-    "precio": 4400,
+    "precio": 4860,
     "foto": "https://i.postimg.cc/MpjTLjpB/62ba990c-3271-4e72-b748-9f60f1f18343.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -3277,6 +3277,502 @@
     "precio": 1200,
     "foto": "https://i.postimg.cc/QCSGWkpQ/TMCB-6232.jpg",
     "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1783882187008,
+    "nombre": "LLAVE T 24PCS MANGO DE GOMA -",
+    "precio": 4350,
+    "foto": "https://i.postimg.cc/Hk9W9XTH/KRY-81.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783882585946,
+    "nombre": " SET DE JARDINERIA X3",
+    "precio": 2999,
+    "foto": "https://i.postimg.cc/dVtpgyGx/IP-122-2.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783882756518,
+    "nombre": "HTTPS://I.POSTIMG.CC/QR3ZTCBH/BR-9.PNG",
+    "precio": 1370,
+    "foto": "https://i.postimg.cc/qR3ZTcbH/BR-9.png",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1783882875513,
+    "nombre": "DESTORNILLADOR DE GOLPE CARAMELO X6 -",
+    "precio": 9825,
+    "foto": "https://i.postimg.cc/VLDg2HfX/CB-57.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783883256792,
+    "nombre": "PINZAS X3 ALTA CALIDAD N6 Y N8",
+    "precio": 13200,
+    "foto": "https://i.postimg.cc/HxJMVBXw/UP-1045.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783883384166,
+    "nombre": "PINZA DE PUNTA ALTA CALIDAD 8\"",
+    "precio": 4800,
+    "foto": "https://i.postimg.cc/CMXRRh68/CHA-06.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783883468194,
+    "nombre": "PINZA ALICATE ALTA CALIDAD 8\" -",
+    "precio": 4800,
+    "foto": "https://i.postimg.cc/XqwjpCJr/CHA-05.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783883622649,
+    "nombre": "TIJERA DE PODAR-",
+    "precio": 5250,
+    "foto": "https://i.postimg.cc/zGPrDjjH/tl120.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783883858739,
+    "nombre": "TIRA CUTER X12 -",
+    "precio": 3600,
+    "foto": "https://i.postimg.cc/TwTSx5Dk/BR-64.png",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1783884202888,
+    "nombre": "CANDADO COMBINACION -",
+    "precio": 2475,
+    "foto": "https://i.postimg.cc/257kTmw4/AU-146.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783884341862,
+    "nombre": "BUSCAPOLO INDUCTIVO-",
+    "precio": 4000,
+    "foto": "CANDADO COMBINACION -",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783884509550,
+    "nombre": "ALARGUE 8 ENCHUFES 3 USB VERDE CELESTE",
+    "precio": 10275,
+    "foto": "https://i.postimg.cc/JndQFscQ/UP-1019.png",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1783884603590,
+    "nombre": "ALARGUE 6 ENCHUFES 3 USB INTERRUPTOR",
+    "precio": 9075,
+    "foto": "https://i.postimg.cc/rwyqf7D0/UP-123.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1783885019405,
+    "nombre": "BALANZA 50 KG EQUIPAJESMILE ",
+    "precio": 4650,
+    "foto": "https://i.postimg.cc/3N6q5S7G/CX-E02.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783885205243,
+    "nombre": "BOTELLA 500ML COLORES SURTIDOS",
+    "precio": 6900,
+    "foto": "https://i.postimg.cc/x1CMwfqr/CB-232.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783890647669,
+    "nombre": "AURICULAR BLUETOOTH PRO",
+    "precio": 6450,
+    "foto": "https://i.postimg.cc/XN2V2dGW/10255.webp",
+    "categoria": "AURICULARES INALAMBRICOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783890841718,
+    "nombre": "AURICULAR JBL ARMAN 520",
+    "precio": 23700,
+    "foto": "https://i.postimg.cc/KvSypfc2/34632.webp",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false
+  },
+  {
+    "id": 1783890938342,
+    "nombre": "AURICULAR SONY 520",
+    "precio": 21600,
+    "foto": "https://i.postimg.cc/wTVb5Q7k/95981.webp",
+    "categoria": "AURICULARES VINCHA",
+    "suspendido": false
+  },
+  {
+    "id": 1783891121138,
+    "nombre": "CABLE ENGOMADO IPHONE AITECH 20 W",
+    "precio": 1980,
+    "foto": "https://i.postimg.cc/Dw4Lf2kJ/95793.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1783891207388,
+    "nombre": "CABLE ENGOMADO TIPO C AITECH 20 W",
+    "precio": 2220,
+    "foto": "https://i.postimg.cc/V6fJtwTZ/95795.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1783891454473,
+    "nombre": "CABLE LEGATUS ENGOMADO TIPO C",
+    "precio": 1370,
+    "foto": "https://i.postimg.cc/TP7KnF61/96089.webp",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1783891686467,
+    "nombre": "CABLE LEGATUS ENGOMADO V8",
+    "precio": 1380,
+    "foto": "https://i.postimg.cc/bw6y5nF0/95752.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1783891839574,
+    "nombre": "CABLE UNIVERSAL CONSOLA TV",
+    "precio": 2090,
+    "foto": "https://i.postimg.cc/qqLV3fP5/95546.jpg",
+    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "suspendido": false
+  },
+  {
+    "id": 1783892443857,
+    "nombre": "CARGADOR AUTO ROYALCEL 4.8",
+    "precio": 3590,
+    "foto": "https://i.postimg.cc/65rLCW1Q/95801.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1783892598668,
+    "nombre": "CARGADOR INALAMBRICO AITECH",
+    "precio": 8700,
+    "foto": "https://i.postimg.cc/q7Pzmnzb/95789.jpg",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1783892848176,
+    "nombre": "CARGADOR LEGATUS TC 5.0 AP ",
+    "precio": 3840,
+    "foto": "https://i.postimg.cc/DyS3zNC1/96158.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1783892988278,
+    "nombre": "CARGADOR LEGATUS IPHONE 5.0A",
+    "precio": 3840,
+    "foto": "https://i.postimg.cc/DZxRvQ13/96236.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1783893051410,
+    "nombre": "CARGADOR LRGATUS V8 5 A",
+    "precio": 3840,
+    "foto": "https://i.postimg.cc/DZxRvQ13/96236.webp",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1783893361996,
+    "nombre": "AURICULAR CON CABLE JBL",
+    "precio": 1620,
+    "foto": "https://i.postimg.cc/HkTKyP3s/95812.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1783893506897,
+    "nombre": "AURICULAR ROYALCELL IPHONE",
+    "precio": 3720,
+    "foto": "https://i.postimg.cc/HkTKyP3s/95812.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1783893627571,
+    "nombre": "AURICULAR ROYALCELL",
+    "precio": 1370,
+    "foto": "https://i.postimg.cc/hvr8WMmS/95596.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1783893890187,
+    "nombre": "AURICULARES EXTRAS BASS",
+    "precio": 6390,
+    "foto": "https://i.postimg.cc/26CVRY7v/95616.jpg",
+    "categoria": "AURICULARES C/CABLE",
+    "suspendido": false
+  },
+  {
+    "id": 1783894169317,
+    "nombre": "CABLE 4 EN 1 UNIVERSAL ",
+    "precio": 1890,
+    "foto": "https://i.postimg.cc/T3qx8DNw/CAB-44006.jpg",
+    "categoria": "CABLES CELULAR ",
+    "suspendido": false
+  },
+  {
+    "id": 1783894403459,
+    "nombre": "ESTABILIZADOR C/ MICROFONO",
+    "precio": 15750,
+    "foto": "https://i.postimg.cc/wTzHw2Fb/HD-71074.jpg",
+    "categoria": "TECNOLOGIA",
+    "suspendido": false
+  },
+  {
+    "id": 1783894565432,
+    "nombre": "HTTPS://I.POSTIMG.CC/NFYVKJY4/TRP-72008.JPG",
+    "precio": 6440,
+    "foto": "https://i.postimg.cc/NFYVkJY4/TRP-72008.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783894702992,
+    "nombre": "BOTELLA DE VIDRIO H2O",
+    "precio": 9380,
+    "foto": "https://i.postimg.cc/NfCJKfyM/JS-7054.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783894822936,
+    "nombre": "DISPENSER DE DETERGENTE C/PORTA ESPONJA",
+    "precio": 11150,
+    "foto": "https://i.postimg.cc/CL27FPts/O-91107.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783894889603,
+    "nombre": "DISPENSER JABON X2 ",
+    "precio": 11970,
+    "foto": "https://i.postimg.cc/QtSgv01m/HOG0623.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783894977614,
+    "nombre": " SACA PELUSA MELECH",
+    "precio": 6710,
+    "foto": "https://i.postimg.cc/C1MkCkXw/F0023.jpg",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783895045014,
+    "nombre": " ESCURRIDOR DE CUCHILLOS",
+    "precio": 6510,
+    "foto": "https://i.postimg.cc/3rcmpyBr/HOG0587.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783895111604,
+    "nombre": "ORGANIZADOR DE ESCOBAS",
+    "precio": 10650,
+    "foto": "https://i.postimg.cc/JnhHHmHs/MELECH-595.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783895185546,
+    "nombre": "ORGANIZADOR Y ESCURRIDOR DE CUBIERTOS",
+    "precio": 7160,
+    "foto": "https://i.postimg.cc/28WbZ0yy/O-91106.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783895322621,
+    "nombre": "DEPILADORA 6 EN 1 RECARGABLE",
+    "precio": 21280,
+    "foto": "https://i.postimg.cc/gJrHh1xX/BXL-833.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1783895801151,
+    "nombre": "ESPEJO CON LUZ RECRGABLE",
+    "precio": 8850,
+    "foto": "https://i.postimg.cc/Dz1PP16f/ESP-91059.jpg",
+    "categoria": "TODO PARA MUJERES ",
+    "suspendido": false
+  },
+  {
+    "id": 1783895965709,
+    "nombre": "MOUSE INALAMBRICO TRANSPARENTE",
+    "precio": 8250,
+    "foto": "https://i.postimg.cc/wMLftnrc/MA200.jpg",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1783896277609,
+    "nombre": "LINGA CADENA PARA MOTO CON CONDADO",
+    "precio": 4850,
+    "foto": "https://i.postimg.cc/X7vBY9BR/C-130507.jpg",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1783896448578,
+    "nombre": "HUMIDIFICADOR LED REDONDO",
+    "precio": 6800,
+    "foto": "https://i.postimg.cc/0QWxWK5d/HMF-91082.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783896534443,
+    "nombre": "HUMIDIFICADOR LED CON LUZ",
+    "precio": 6800,
+    "foto": "https://i.postimg.cc/J0HwpT2D/HMF-91081.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783896603746,
+    "nombre": "MANGUERA EXPANDIBLE 100FT 30M",
+    "precio": 20600,
+    "foto": "https://i.postimg.cc/fWST25XR/M-91097.jpg",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1783896688006,
+    "nombre": " ASPIRADORA PORTATIL VACCUN",
+    "precio": 7210,
+    "foto": "https://i.postimg.cc/KYsxQg8f/AS-228.jpg",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1783897205190,
+    "nombre": "LAMPARA FOCO FAROL",
+    "precio": 11550,
+    "foto": "https://i.postimg.cc/YqVNcdyw/HW-978W.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1783897331092,
+    "nombre": "LINTERNA 4 LED RECARGABLE",
+    "precio": 5890,
+    "foto": "https://i.postimg.cc/YSxmSR8L/L-19.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1783897513559,
+    "nombre": "LUZ DE EMERGENCIA 60 LED SV-060 CHICO",
+    "precio": 10850,
+    "foto": "https://i.postimg.cc/sx5MtJBd/MELECH-398.jpg",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1783897617637,
+    "nombre": "CALCULADORA KARUDIA 12 DIGITOS",
+    "precio": 4690,
+    "foto": "https://i.postimg.cc/Qt1Ntdjd/KK-8835B.jpg",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1783897739165,
+    "nombre": " MICROFONO INALAMBRICO",
+    "precio": 21350,
+    "foto": "https://i.postimg.cc/QCjDdg4C/MIC-32001.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1783897822119,
+    "nombre": "PARLANTE BT CON LUZ C/1 MIC",
+    "precio": 8960,
+    "foto": "https://i.postimg.cc/PJfGjXJp/K18.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1783897889058,
+    "nombre": "PARLANTE BT MINI ASTRONAUTA ",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/FK0wkdk8/GTS-2097.jpg",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1783897994799,
+    "nombre": "RECEPTOR BLUETOOTH",
+    "precio": 2750,
+    "foto": "https://i.postimg.cc/pdM6vWck/RAB101.jpg",
+    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "suspendido": false
+  },
+  {
+    "id": 1783898214035,
+    "nombre": "BOTELLA DEPORTIVA CON PARLANTE",
+    "precio": 14710,
+    "foto": "https://i.postimg.cc/c1v2fb3h/CH-M833.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783898278745,
+    "nombre": "BOTELLA ANTIDERRAME C/ SORBETE INCORPORADO",
+    "precio": 15400,
+    "foto": "https://i.postimg.cc/Px966dD1/TH-27G.jpg",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783898358915,
+    "nombre": "JUEGO DE BLOQUES JENGA PLASTICO",
+    "precio": 9590,
+    "foto": "https://i.postimg.cc/tR6DqQW1/BX-16.jpg",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1783898440013,
+    "nombre": "PIZARRA LED 20 X30 ACRILICA COLORES NEON",
+    "precio": 9380,
+    "foto": "https://i.postimg.cc/VsXBy9Qx/LED-83097.jpg",
+    "categoria": "NIÑOS",
     "suspendido": false
   }
 ]
