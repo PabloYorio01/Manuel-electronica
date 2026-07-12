@@ -53,7 +53,7 @@
     "precio": 4100,
     "foto": "https://i.postimg.cc/vHRNJ8fX/CAR-53001.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 14,
@@ -93,7 +93,7 @@
     "precio": 3450,
     "foto": "https://i.postimg.cc/02Vpj2XG/TMCC818.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 20,
@@ -485,7 +485,7 @@
     "precio": 5400,
     "foto": "https://i.postimg.cc/YC5t4BWS/CRT-110008.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 123,
@@ -573,7 +573,7 @@
     "precio": 4200,
     "foto": "https://i.postimg.cc/y86ksZZT/B-505.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 150,
@@ -901,7 +901,7 @@
     "precio": 14200,
     "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 227,
@@ -1005,7 +1005,7 @@
     "precio": 5500,
     "foto": "https://i.postimg.cc/MTjRrwkx/popit.jpg",
     "categoria": "NIÑOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 270,
@@ -1245,7 +1245,7 @@
     "precio": 9900,
     "foto": "https://i.postimg.cc/Mp65fjG8/IMG-8029.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 344,
@@ -1261,7 +1261,7 @@
     "precio": 5950,
     "foto": "https://i.postimg.cc/MXk48Z0H/IMG-8035.jpg",
     "categoria": "TODO PARA MUJERES ",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 346,
@@ -1293,7 +1293,7 @@
     "precio": 16500,
     "foto": "https://i.postimg.cc/mrxQNzLL/IMG-8039.jpg",
     "categoria": "TODO PARA HOMBRES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 350,
@@ -1581,7 +1581,7 @@
     "precio": 8900,
     "foto": "https://i.postimg.cc/ZKmQ3B1g/IMG-8092.jpg",
     "categoria": "HERRAMIENTAS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 396,
@@ -1693,7 +1693,7 @@
     "precio": 4400,
     "foto": "https://i.postimg.cc/RhmydNDF/cbe3e6cb-64fb-4822-9c41-237e2a7060ce.jpg",
     "categoria": "LIBRERIA",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 413,
@@ -1757,7 +1757,7 @@
     "precio": 12200,
     "foto": "https://i.postimg.cc/1zK4KYBC/IMG-8128.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 425,
@@ -1773,7 +1773,7 @@
     "precio": 1750,
     "foto": "https://i.postimg.cc/x8xDtLNf/IMG-8152.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 429,
@@ -1781,7 +1781,7 @@
     "precio": 3300,
     "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 430,
@@ -1933,7 +1933,7 @@
     "precio": 6100,
     "foto": "https://i.postimg.cc/wTx9V6Mw/2c242dfe-de36-4ec6-a392-860dfef2dbca.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 462,
@@ -2029,7 +2029,7 @@
     "precio": 1550,
     "foto": "https://i.postimg.cc/9Q7ZB3Ln/IMG-8206.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 475,
@@ -2453,7 +2453,7 @@
     "precio": 3800,
     "foto": "https://i.postimg.cc/FKXw9wDk/0200ed32-8312-4cf6-80e3-6d49176d549a.jpg",
     "categoria": "ILUMINACION",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1775837565671,
@@ -2517,7 +2517,7 @@
     "precio": 10500,
     "foto": "https://i.postimg.cc/c1QQdRhs/IMG-8949.png",
     "categoria": "PARLANTES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1776275415176,
@@ -2717,7 +2717,7 @@
     "precio": 17900,
     "foto": "https://i.postimg.cc/9QcRrX44/2b78f996-e09e-44fd-97e7-fca412f55faa.jpg",
     "categoria": "TERMOS Y VASOS",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1777558889896,
@@ -2789,7 +2789,7 @@
     "precio": 5650,
     "foto": "https://i.postimg.cc/KY8ZhVzY/c80434a8-ff9a-46a0-889e-322fc678ec82.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1778686038377,
@@ -2845,7 +2845,7 @@
     "precio": 29500,
     "foto": "https://i.postimg.cc/J4PFNVzK/f3497798-2705-4653-b57b-9d2e2fbf5fbb.jpg",
     "categoria": "VARIOS",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1779819725489,
@@ -2946,7 +2946,7 @@
   {
     "id": 1779835043236,
     "nombre": "DESTORNILLADOR CON MANGO DE GOMA X 6",
-    "precio": 5500,
+    "precio": 6525,
     "foto": "https://i.postimg.cc/Lscj7pSh/c41f3ad7-520a-4b11-a22f-47befd3bbacc.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -3069,7 +3069,7 @@
     "precio": 3450,
     "foto": "https://i.postimg.cc/q7ZLYR1k/72180970-0bf5-4ee0-a319-7e83440ddb8c.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1781186510876,
@@ -3101,7 +3101,7 @@
     "precio": 7100,
     "foto": "https://i.postimg.cc/7ZvvKjwP/f557f9c3-c2a8-45e1-a956-e0605f988ae4.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1782416293206,
@@ -3117,7 +3117,7 @@
     "precio": 2000,
     "foto": "https://i.postimg.cc/nzs71Jwj/764fad18-8264-40ce-8c02-1b75ff5cd232.jpg",
     "categoria": "HOGAR",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 1782416805176,
@@ -3264,35 +3264,19 @@
     "suspendido": false
   },
   {
-    "id": 1783875116151,
-    "nombre": "CARGADOR USB CARGA RAPIDA 45 W",
-    "precio": 8350,
-    "foto": "https://i.postimg.cc/g212SN81/CC-59223.jpg",
-    "categoria": "CARGADORES",
+    "id": 1783881137098,
+    "nombre": "SET DE HERRAMIENTAS 27PCS",
+    "precio": 31800,
+    "foto": "https://i.postimg.cc/fyPSZXJY/UP-19.jpg",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
-    "id": 1783876128193,
-    "nombre": "ALARGUE 6 ENCHUFES 3 USB",
-    "precio": 9075,
-    "foto": "https://i.postimg.cc/rwyqf7D0/UP-123.jpg",
-    "categoria": "ELECTRICIDAD ",
-    "suspendido": false
-  },
-  {
-    "id": 1783876340085,
-    "nombre": "ALARGUE 6 ENCHUFES 3 USB",
-    "precio": 9075,
-    "foto": "https://i.postimg.cc/rwyqf7D0/UP-123.jpg",
-    "categoria": "ELECTRICIDAD ",
-    "suspendido": false
-  },
-  {
-    "id": 1783876655160,
-    "nombre": "ALARGUE 6 ENCHUFES 3 USB",
-    "precio": 9075,
-    "foto": "https://i.postimg.cc/rwyqf7D0/UP-123.jpg",
-    "categoria": "ELECTRICIDAD ",
+    "id": 1783881525320,
+    "nombre": " CABLE V8 EN BOLSA TIME 3.1A",
+    "precio": 1200,
+    "foto": "https://i.postimg.cc/QCSGWkpQ/TMCB-6232.jpg",
+    "categoria": "CABLES CELULAR ",
     "suspendido": false
   }
 ]
