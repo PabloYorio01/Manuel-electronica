@@ -3270,5 +3270,29 @@
     "foto": "https://i.postimg.cc/g212SN81/CC-59223.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
+  },
+  {
+    "id": 1783876128193,
+    "nombre": "ALARGUE 6 ENCHUFES 3 USB",
+    "precio": 9075,
+    "foto": "https://i.postimg.cc/rwyqf7D0/UP-123.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1783876340085,
+    "nombre": "ALARGUE 6 ENCHUFES 3 USB",
+    "precio": 9075,
+    "foto": "https://i.postimg.cc/rwyqf7D0/UP-123.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1783876655160,
+    "nombre": "ALARGUE 6 ENCHUFES 3 USB",
+    "precio": 9075,
+    "foto": "https://i.postimg.cc/rwyqf7D0/UP-123.jpg",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
   }
 ]
