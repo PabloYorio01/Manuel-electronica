@@ -29,7 +29,7 @@
     "precio": 2950,
     "foto": "https://i.postimg.cc/Wz956m8S/CAR-53004.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 13,
@@ -77,7 +77,7 @@
     "precio": 3450,
     "foto": "https://i.postimg.cc/02Vpj2XG/TMCC818.jpg",
     "categoria": "CARGADORES",
-    "suspendido": true
+    "suspendido": false
   },
   {
     "id": 20,
@@ -426,7 +426,7 @@
   {
     "id": 109,
     "nombre": "CEPILLO SECADOR GIRATORIO CON CABLE DE 1000 W",
-    "precio": 16950,
+    "precio": 15500,
     "foto": "https://i.postimg.cc/qMKW8Sn5/OA-CP202.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
@@ -1357,7 +1357,7 @@
     "precio": 2850,
     "foto": "https://i.postimg.cc/g0yHzfQX/IMG-8073.png",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 377,
@@ -2633,8 +2633,8 @@
   },
   {
     "id": 1779820194442,
-    "nombre": "SECADORA DE PELO 2300W",
-    "precio": 14600,
+    "nombre": "SECADORA DE PELO 2000W",
+    "precio": 15360,
     "foto": "https://i.postimg.cc/3xzn1K5g/b09a393c-07d8-4c5e-8ab7-bbf733884b19.jpg",
     "categoria": "TODO PARA MUJERES ",
     "suspendido": false
