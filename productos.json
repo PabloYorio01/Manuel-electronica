@@ -138,7 +138,7 @@
   {
     "id": 30,
     "nombre": "CABLE TIPO C A TIPO C ",
-    "precio": 2500,
+    "precio": 1650,
     "foto": "https://i.postimg.cc/cJpyfWC6/CAB-44002.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -1074,7 +1074,7 @@
   {
     "id": 296,
     "nombre": "CARGADOR DE NOTEBOOK C/FICHA LENOVO",
-    "precio": 10800,
+    "precio": 11200,
     "foto": "https://i.postimg.cc/tTwQY1xw/cargadornot.jpg",
     "categoria": "CARGADORES",
     "suspendido": false
@@ -2728,14 +2728,6 @@
     "suspendido": true
   },
   {
-    "id": 1781186371644,
-    "nombre": "CARGADOR 68W PD CON CABLE + ENTRADA USB + TIPO C ",
-    "precio": 7000,
-    "foto": "https://i.postimg.cc/Px9SLxZH/8b00316e-df59-4fa1-bfb8-d236e7268921.jpg",
-    "categoria": "CARGADORES",
-    "suspendido": false
-  },
-  {
     "id": 1781186510876,
     "nombre": "TERMO CON MATE Y MANIJA 1,3L ",
     "precio": 22800,
@@ -3170,7 +3162,7 @@
   {
     "id": 1783894169317,
     "nombre": "CABLE 4 EN 1 UNIVERSAL ",
-    "precio": 2870,
+    "precio": 1890,
     "foto": "https://i.postimg.cc/T3qx8DNw/CAB-44006.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -3408,91 +3400,203 @@
     "suspendido": false
   },
   {
-    "id": 1784404019020,
-    "nombre": "AURICULAR ROYAL CELL IPHONE RE-118",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/SNKTbdKp/d19be6f1-2d13-4530-9eee-96dcd7d37aa0.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1784404349878,
-    "nombre": "AURICULAR BT TIME BLANCO/NEGRO ",
-    "precio": 10990,
-    "foto": "https://i.postimg.cc/QdQW4GrK/274ddb5f-ecf2-4859-bf3d-744e2fd81473.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
-    "id": 1784404521095,
-    "nombre": "AURICUARES INALAMBRICOS I12",
-    "precio": 7500,
-    "foto": "https://i.postimg.cc/ZnNrJWX5/9082c320-269e-491a-b10c-ddb1c2acb088.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
-    "id": 1784404684370,
-    "nombre": "AURICULAR NOGA VOICE",
-    "precio": 10360,
-    "foto": "https://i.postimg.cc/SRczwwz2/1fc9f0af-fc18-4e62-82bd-14db14bab4ec.jpg",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": false
-  },
-  {
-    "id": 1784404921812,
-    "nombre": "AURICULAR VINCHA BT INALAMBRICO AU 16011",
-    "precio": 9300,
-    "foto": "https://i.postimg.cc/kGygN9bW/image.png",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": false
-  },
-  {
-    "id": 1784405198716,
-    "nombre": "AURICULAR VINCHA CONEJO 150MA FM/MP3",
-    "precio": 7350,
-    "foto": "https://i.postimg.cc/pTZwqdsk/image.png",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": false
-  },
-  {
-    "id": 1784405424545,
-    "nombre": "CARGADOR DE NOEBOOK C/FICHA LENOVO ",
-    "precio": 11200,
-    "foto": "https://i.postimg.cc/ydQfD3Qz/image.png",
+    "id": 1784412191504,
+    "nombre": "CABLE PS4 (V8) BOLSITA C/FILTRO 2.2MM",
+    "precio": 1350,
+    "foto": "https://i.postimg.cc/50QVNJgB/image.png",
     "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
   },
   {
-    "id": 1784405582224,
-    "nombre": "FUENTE DE ALIMENTACION UNIVERSAL 12V 3A",
-    "precio": 5205,
-    "foto": "https://i.postimg.cc/z3mFhCTW/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "id": 1784412582951,
+    "nombre": "IPHONE CABLE 3.1 TIME CAB-43003",
+    "precio": 1550,
+    "foto": "https://i.postimg.cc/wTp7P4xX/image.png",
+    "categoria": "CABLES CELULAR ",
     "suspendido": false
   },
   {
-    "id": 1784405715253,
-    "nombre": "FUENTE DE ALIMENTACION 5V 2A",
-    "precio": 3150,
-    "foto": "https://i.postimg.cc/L4g7JNpk/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "id": 1784412635200,
+    "nombre": "IPHONE CABLE ROYALCELL MALLADO",
+    "precio": 1550,
+    "foto": "https://i.postimg.cc/nhKMp4zS/image.png",
+    "categoria": "CABLES CELULAR ",
     "suspendido": false
   },
   {
-    "id": 1784405856499,
-    "nombre": "USB 7 ENTRADAS, INTERRUPTOR IND. IBEK ",
-    "precio": 4390,
-    "foto": "https://i.postimg.cc/jSMvg7TV/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "id": 1784412764577,
+    "nombre": "CABEZAL CARGADOR 25W",
+    "precio": 4870,
+    "foto": "https://i.postimg.cc/0jtFpHcH/image.png",
+    "categoria": "CARGADORES",
     "suspendido": false
   },
   {
-    "id": 1784406357541,
-    "nombre": "CABLE 2 A 1 AUDIO. 1,5MTS",
-    "precio": 735,
-    "foto": "https://i.postimg.cc/vTSH2h0t/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
+    "id": 1784412908365,
+    "nombre": "CARGADOR SAMSUMG 45W",
+    "precio": 5870,
+    "foto": "https://i.postimg.cc/3Nbfy0xz/image.png",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1784412984404,
+    "nombre": "CARGADOR HYTOSHY 168W",
+    "precio": 7950,
+    "foto": "https://i.postimg.cc/XNTz0Ftm/image.png",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1784413019362,
+    "nombre": "CARGADOR DE AUTO Y TRANSMISOR FM 3.1A",
+    "precio": 3550,
+    "foto": "https://i.postimg.cc/gJ2KvcQh/image.png",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1784413098988,
+    "nombre": "CARGADOR LEGATUS TIPO C 3.4A",
+    "precio": 2745,
+    "foto": "https://i.postimg.cc/tT82pQvt/image.png",
+    "categoria": "CARGADORES",
+    "suspendido": false
+  },
+  {
+    "id": 1784413193507,
+    "nombre": "ARO LED LUZ FRIA / CALIDA",
+    "precio": 7700,
+    "foto": "https://i.postimg.cc/XJ9yGR74/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413229160,
+    "nombre": "CONSOLA VIDEO JUEGO 64GB RETRO 2.4G",
+    "precio": 45280,
+    "foto": "https://i.postimg.cc/BQnX4LDt/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413284449,
+    "nombre": "CONSOLA X2 PLUS 64 GB",
+    "precio": 57960,
+    "foto": "https://i.postimg.cc/QdRtQfz4/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413363855,
+    "nombre": "CONTROL REMOTO TV - RM-014S",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/R05S6N3g/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784413433693,
+    "nombre": "CONTROL REMOTO UNIVERSAL TV",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/HWZT0Scs/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784413471673,
+    "nombre": "ESTABILIZADOR C/ MICROFONO Y LUZ",
+    "precio": 15200,
+    "foto": "https://i.postimg.cc/qvn0T4mX/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413513119,
+    "nombre": "JOYSTICK CELL,PC Y PS3",
+    "precio": 16200,
+    "foto": "https://i.postimg.cc/7hf8QkCp/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413557303,
+    "nombre": "JOYSTICK PS3 SIN MARCA",
+    "precio": 1850,
+    "foto": "https://i.postimg.cc/Kj2Q1XBh/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413611687,
+    "nombre": "JOYSTICK PS4 COLORES SIN MARCA",
+    "precio": 22850,
+    "foto": "https://i.postimg.cc/Dy55wMZK/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413661341,
+    "nombre": " LUZ DE SELFIE",
+    "precio": 5300,
+    "foto": "https://i.postimg.cc/7Zv8Xjxz/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413729691,
+    "nombre": "MOUSE INALAMBRICO BLISTER",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/hjv5K0SC/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413763171,
+    "nombre": "MOUSE LED NOGA CON CALBE",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/L8FwjfTH/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413811863,
+    "nombre": "TECLADO MINI KEYBOARD",
+    "precio": 6990,
+    "foto": "https://i.postimg.cc/W41vJgNr/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413851904,
+    "nombre": "REPETIDOR WIFI H300M BN0197",
+    "precio": 11990,
+    "foto": "https://i.postimg.cc/pVhPZfDh/image.png",
+    "categoria": "COMPUTACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784413895300,
+    "nombre": "TRIPODE 2.1M METAL",
+    "precio": 6600,
+    "foto": "https://i.postimg.cc/tTLQfchc/image.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784413945208,
+    "nombre": "TRIPODE DE METAL CELULAR HASTA 1.10M",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/0y8gLDJ3/image.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784413986750,
+    "nombre": "TRIPODE C/LUZLED Y MICROFONO",
+    "precio": 8000,
+    "foto": "https://i.postimg.cc/nr8gTDJm/image.png",
+    "categoria": "VARIOS",
     "suspendido": false
   }
 ]
