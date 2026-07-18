@@ -3170,7 +3170,7 @@
   {
     "id": 1783894169317,
     "nombre": "CABLE 4 EN 1 UNIVERSAL ",
-    "precio": 2870,
+    "precio": 1890,
     "foto": "https://i.postimg.cc/T3qx8DNw/CAB-44006.jpg",
     "categoria": "CABLES CELULAR ",
     "suspendido": false
@@ -3405,94 +3405,6 @@
     "precio": 9380,
     "foto": "https://i.postimg.cc/VsXBy9Qx/LED-83097.jpg",
     "categoria": "NIÑOS",
-    "suspendido": false
-  },
-  {
-    "id": 1784404019020,
-    "nombre": "AURICULAR ROYAL CELL IPHONE RE-118",
-    "precio": 3500,
-    "foto": "https://i.postimg.cc/SNKTbdKp/d19be6f1-2d13-4530-9eee-96dcd7d37aa0.jpg",
-    "categoria": "AURICULARES C/CABLE",
-    "suspendido": false
-  },
-  {
-    "id": 1784404349878,
-    "nombre": "AURICULAR BT TIME BLANCO/NEGRO ",
-    "precio": 10990,
-    "foto": "https://i.postimg.cc/QdQW4GrK/274ddb5f-ecf2-4859-bf3d-744e2fd81473.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
-    "id": 1784404521095,
-    "nombre": "AURICUARES INALAMBRICOS I12",
-    "precio": 7500,
-    "foto": "https://i.postimg.cc/ZnNrJWX5/9082c320-269e-491a-b10c-ddb1c2acb088.jpg",
-    "categoria": "AURICULARES INALAMBRICOS",
-    "suspendido": false
-  },
-  {
-    "id": 1784404684370,
-    "nombre": "AURICULAR NOGA VOICE",
-    "precio": 10360,
-    "foto": "https://i.postimg.cc/SRczwwz2/1fc9f0af-fc18-4e62-82bd-14db14bab4ec.jpg",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": false
-  },
-  {
-    "id": 1784404921812,
-    "nombre": "AURICULAR VINCHA BT INALAMBRICO AU 16011",
-    "precio": 9300,
-    "foto": "https://i.postimg.cc/kGygN9bW/image.png",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": false
-  },
-  {
-    "id": 1784405198716,
-    "nombre": "AURICULAR VINCHA CONEJO 150MA FM/MP3",
-    "precio": 7350,
-    "foto": "https://i.postimg.cc/pTZwqdsk/image.png",
-    "categoria": "AURICULARES VINCHA",
-    "suspendido": false
-  },
-  {
-    "id": 1784405424545,
-    "nombre": "CARGADOR DE NOEBOOK C/FICHA LENOVO ",
-    "precio": 11200,
-    "foto": "https://i.postimg.cc/ydQfD3Qz/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
-  },
-  {
-    "id": 1784405582224,
-    "nombre": "FUENTE DE ALIMENTACION UNIVERSAL 12V 3A",
-    "precio": 5205,
-    "foto": "https://i.postimg.cc/z3mFhCTW/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
-  },
-  {
-    "id": 1784405715253,
-    "nombre": "FUENTE DE ALIMENTACION 5V 2A",
-    "precio": 3150,
-    "foto": "https://i.postimg.cc/L4g7JNpk/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
-  },
-  {
-    "id": 1784405856499,
-    "nombre": "USB 7 ENTRADAS, INTERRUPTOR IND. IBEK ",
-    "precio": 4390,
-    "foto": "https://i.postimg.cc/jSMvg7TV/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
-    "suspendido": false
-  },
-  {
-    "id": 1784406357541,
-    "nombre": "CABLE 2 A 1 AUDIO. 1,5MTS",
-    "precio": 735,
-    "foto": "https://i.postimg.cc/vTSH2h0t/image.png",
-    "categoria": "CABLES AUXILIARES Y ADAPTADORES ",
     "suspendido": false
   }
 ]
