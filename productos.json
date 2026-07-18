@@ -706,7 +706,7 @@
   {
     "id": 186,
     "nombre": "CINTA METRICA X 5 MTS.",
-    "precio": 2500,
+    "precio": 2650,
     "foto": "https://i.postimg.cc/QMGXyZST/1902.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -730,7 +730,7 @@
   {
     "id": 190,
     "nombre": "ENCHUFE AMERICANO FICHA PLANA",
-    "precio": 750,
+    "precio": 850,
     "foto": "https://i.postimg.cc/kXW2NWMP/Captura-de-pantalla-2025-09-11-161544.png",
     "categoria": "ELECTRICIDAD ",
     "suspendido": false
@@ -898,15 +898,15 @@
   {
     "id": 235,
     "nombre": "TERMO ACERO TIPO STANLEY CON MANIJA 1.2L",
-    "precio": 20100,
+    "precio": 20500,
     "foto": "https://i.postimg.cc/hPzMsfV8/termoacero.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
   },
   {
     "id": 237,
-    "nombre": "VASO TERMICO 1.0 L CON SORBETE",
-    "precio": 14900,
+    "nombre": "VASO TERMICO 890ML CON SORBETE",
+    "precio": 13500,
     "foto": "https://i.postimg.cc/h40pxf55/BOTELLA-TERM-800ML.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -922,7 +922,7 @@
   {
     "id": 244,
     "nombre": "BOTELLA TERMICA DEPORTIVA COLORES  DE 500ML",
-    "precio": 13300,
+    "precio": 14250,
     "foto": "https://i.postimg.cc/0ycCHZVy/IMG-8125.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -1154,7 +1154,7 @@
   {
     "id": 318,
     "nombre": "SET DE LLAVES TUBO X 46 PCS.",
-    "precio": 9900,
+    "precio": 10560,
     "foto": "https://i.postimg.cc/9QYQgmV6/SETLLAVE.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1170,7 +1170,7 @@
   {
     "id": 327,
     "nombre": "PARCHE BICI",
-    "precio": 1100,
+    "precio": 1150,
     "foto": "https://i.postimg.cc/QMw99HzD/parche.png",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -1378,9 +1378,9 @@
   {
     "id": 383,
     "nombre": "TESTER DIGITAL",
-    "precio": 5500,
+    "precio": 6500,
     "foto": "https://i.postimg.cc/HxFpxPfb/IMG-8082.jpg",
-    "categoria": "ELECTRICIDAD ",
+    "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
   {
@@ -1434,7 +1434,7 @@
   {
     "id": 391,
     "nombre": "SET DE DESTORNILLADOR DE GOLPE X6",
-    "precio": 8700,
+    "precio": 8950,
     "foto": "https://i.postimg.cc/pLFPTnzP/IMG-8089.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1496,14 +1496,6 @@
     "suspendido": false
   },
   {
-    "id": 400,
-    "nombre": "CUTTER + REPUESTRO ",
-    "precio": 1300,
-    "foto": "https://i.postimg.cc/kX9n45wG/IMG-8110.jpg",
-    "categoria": "HERRAMIENTAS",
-    "suspendido": false
-  },
-  {
     "id": 401,
     "nombre": "LUBRICANTE W40 DE 163 G 240 ML",
     "precio": 4650,
@@ -1514,7 +1506,7 @@
   {
     "id": 403,
     "nombre": "CABLE PARA AUTO BOOSTER 500 MP",
-    "precio": 8900,
+    "precio": 9100,
     "foto": "https://i.postimg.cc/fLtxJCWQ/IMG-8113.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1570,7 +1562,7 @@
   {
     "id": 413,
     "nombre": "PISTOLA DE SILICONA CHICA 10 W",
-    "precio": 2600,
+    "precio": 2700,
     "foto": "https://i.postimg.cc/brvHqPGH/263784a7-b55f-448e-807d-c200f3830af1.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -1593,8 +1585,8 @@
   },
   {
     "id": 416,
-    "nombre": "CINTA DOBLE FAZ X 3 MT",
-    "precio": 1950,
+    "nombre": "CINTA DOBLE FAZ X 2 MT",
+    "precio": 1250,
     "foto": "https://i.postimg.cc/ZqKr8Zc2/IMG-8116.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1602,7 +1594,7 @@
   {
     "id": 417,
     "nombre": "CINTA METRICA X 10 MTS.",
-    "precio": 5950,
+    "precio": 4900,
     "foto": "https://i.postimg.cc/3JF4nVWF/IMG-8111.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -1610,7 +1602,7 @@
   {
     "id": 419,
     "nombre": "GUANTES DE TRABAJO",
-    "precio": 1950,
+    "precio": 1750,
     "foto": "https://i.postimg.cc/P5D7gbnr/IMG-8112.jpg",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
@@ -2146,7 +2138,7 @@
   {
     "id": 1774984520477,
     "nombre": "BOTELLA TERMICA 500 ML ",
-    "precio": 12500,
+    "precio": 13500,
     "foto": "https://i.postimg.cc/R0KbPp5j/f66ae5e5-d0b8-4bf6-8152-8f902e491ab1.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": false
@@ -2778,8 +2770,8 @@
   {
     "id": 1782416889315,
     "nombre": "CINTA TEFOLON ",
-    "precio": 750,
-    "foto": "https://i.postimg.cc/gkbR31yZ/81b67e37-8ae6-4355-9814-00732618f69e.jpg",
+    "precio": 1390,
+    "foto": "https://i.postimg.cc/t4TbsFCW/image.png",
     "categoria": "HERRAMIENTAS",
     "suspendido": false
   },
@@ -3597,6 +3589,142 @@
     "precio": 8000,
     "foto": "https://i.postimg.cc/nr8gTDJm/image.png",
     "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784414390448,
+    "nombre": " ZAPATILLA X 3 MTS. REFORZADO",
+    "precio": 3360,
+    "foto": "https://i.postimg.cc/C5BMnD4X/image.png",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1784414462195,
+    "nombre": "ZAPATILLA CARGADOR RACK CHARGER 66W",
+    "precio": 6860,
+    "foto": "https://i.postimg.cc/N0dQNbJR/image.png",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1784414494551,
+    "nombre": "ZAPATILLA USB",
+    "precio": 12460,
+    "foto": "https://i.postimg.cc/Sjb4XPRK/image.png",
+    "categoria": "ELECTRICIDAD ",
+    "suspendido": false
+  },
+  {
+    "id": 1784414652679,
+    "nombre": "ATORNILLADOR 12V 2 BATERIAS",
+    "precio": 37100,
+    "foto": "https://i.postimg.cc/BnQS2dNQ/image.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784414999917,
+    "nombre": "CUTTER",
+    "precio": 1300,
+    "foto": "https://i.postimg.cc/9McJfYcc/image.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784415116775,
+    "nombre": "COMPRESOR DE AIRE DC12V",
+    "precio": 12800,
+    "foto": "https://i.postimg.cc/cLVzd3K4/image.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784415157301,
+    "nombre": "DESTORNILLADOR INALAMBRICO 48PC 5V",
+    "precio": 16800,
+    "foto": "https://i.postimg.cc/6pR0LmQ1/image.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784415196158,
+    "nombre": "LINGA SUJETA CARGA 4,5M 150K",
+    "precio": 6800,
+    "foto": "https://i.postimg.cc/B6qB350S/image.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784415439052,
+    "nombre": "PEGAMENTO 3G X12 TIPO LA GOTITA",
+    "precio": 3950,
+    "foto": "https://i.postimg.cc/mrTH1b5Z/image.png",
+    "categoria": "VARIOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784415595344,
+    "nombre": "PINZA DE FUERZA",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/s2n4VQDS/image.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784416078601,
+    "nombre": "BOTELLA INFANTIL",
+    "precio": 14700,
+    "foto": "https://i.postimg.cc/5N4nJ3nk/image.png",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784416115617,
+    "nombre": "BOTELLA TERMICA ACERO Y REVESTIMIENTO DE GOMA 500ML",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/cJnch5L6/image.png",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784416190654,
+    "nombre": "BOTELLA TERMO 500ML C/TERMOMETRO LED",
+    "precio": 7970,
+    "foto": "https://i.postimg.cc/8c1B1pBs/image.png",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784416246291,
+    "nombre": "MATE TERMICO DE ACERO INOXIDABLE 180ML",
+    "precio": 7100,
+    "foto": "https://i.postimg.cc/cLVRvMBZ/image.png",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784416336349,
+    "nombre": "TERMO ACERO 1L",
+    "precio": 16300,
+    "foto": "https://i.postimg.cc/kgt8PR3W/image.png",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784416367921,
+    "nombre": "VASO TERMICO 500 ML ACERO",
+    "precio": 9500,
+    "foto": "https://i.postimg.cc/90n4vCLB/image.png",
+    "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784416546236,
+    "nombre": "BOTELLA 7500ML",
+    "precio": 14250,
+    "foto": "https://i.postimg.cc/RVdpJ8N7/image.png",
+    "categoria": "TERMOS Y VASOS",
     "suspendido": false
   }
 ]
