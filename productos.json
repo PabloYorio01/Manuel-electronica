@@ -266,7 +266,7 @@
   {
     "id": 68,
     "nombre": "ANAFE PORTATIL DE CAMPING K-202",
-    "precio": 11400,
+    "precio": 9500,
     "foto": "https://i.postimg.cc/28TbMwKw/ZT-202.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -346,7 +346,7 @@
   {
     "id": 92,
     "nombre": "TIMBRE INALAMBRICO",
-    "precio": 8400,
+    "precio": 9650,
     "foto": "https://i.postimg.cc/x8pQmKtH/Captura-de-pantalla-2025-09-11-175409.png",
     "categoria": "HOGAR",
     "suspendido": false
@@ -544,22 +544,6 @@
     "suspendido": true
   },
   {
-    "id": 149,
-    "nombre": "PARAGUAS DISEÑO INFANTIL",
-    "precio": 4200,
-    "foto": "https://i.postimg.cc/y86ksZZT/B-505.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": true
-  },
-  {
-    "id": 150,
-    "nombre": "PELOTA DE GOMA COLORES",
-    "precio": 1000,
-    "foto": "https://i.postimg.cc/Wz0LRzr5/pelotagoma.jpg",
-    "categoria": "NIÑOS",
-    "suspendido": false
-  },
-  {
     "id": 151,
     "nombre": "PIZARRA 8.5\"  PERSONAJES",
     "precio": 2700,
@@ -626,7 +610,7 @@
   {
     "id": 170,
     "nombre": "LUZ DE EMERGENCIA 60 LED USB RECARGABLE",
-    "precio": 13900,
+    "precio": 14600,
     "foto": "https://i.postimg.cc/ZqSr20z7/LUZ-EMERGENCIA-60LED.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -642,7 +626,7 @@
   {
     "id": 175,
     "nombre": "LINTERNA LED USB RECARGABLE BUSCA HUELLA",
-    "precio": 18400,
+    "precio": 19400,
     "foto": "https://i.postimg.cc/43Z9T7wt/LINTERNA-RECARGABLE.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -650,7 +634,7 @@
   {
     "id": 177,
     "nombre": "LUZ DE BICI X 2 PIEZAS",
-    "precio": 1900,
+    "precio": 2050,
     "foto": "https://i.postimg.cc/ZYfHfLXq/luz-bici.png",
     "categoria": "TODO PARA BICI Y MOTOS ",
     "suspendido": false
@@ -816,22 +800,6 @@
     "suspendido": false
   },
   {
-    "id": 210,
-    "nombre": "TIJERA MEDIANA DE 17 CM.",
-    "precio": 1350,
-    "foto": "https://i.postimg.cc/tC7yrfjw/TIJE.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
-    "id": 211,
-    "nombre": "CALCULADORA KARUIDA KK 837B",
-    "precio": 4150,
-    "foto": "https://i.postimg.cc/3w1xMh0w/CALCU.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
-  },
-  {
     "id": 212,
     "nombre": "CALCULADORA CHICA BLISTER COLORES",
     "precio": 1950,
@@ -858,7 +826,7 @@
   {
     "id": 215,
     "nombre": "CALCULADORA KARUIDA DOBLE VISOR 12 DIGITOS CT 8122",
-    "precio": 7600,
+    "precio": 8300,
     "foto": "https://i.postimg.cc/gkXRX5cT/CT-8122-120.jpg",
     "categoria": "LIBRERIA",
     "suspendido": false
@@ -1580,7 +1548,7 @@
     "nombre": "CINTA DOBLE FAZ X 2 MT",
     "precio": 1250,
     "foto": "https://i.postimg.cc/ZqKr8Zc2/IMG-8116.jpg",
-    "categoria": "HERRAMIENTAS",
+    "categoria": "LIBRERIA",
     "suspendido": false
   },
   {
@@ -1618,7 +1586,7 @@
   {
     "id": 429,
     "nombre": "LINTERNA LISA USB RECARCABLE + ZOOM",
-    "precio": 3300,
+    "precio": 3600,
     "foto": "https://i.postimg.cc/7ZzdTF93/IMG-8149.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -2210,7 +2178,7 @@
   {
     "id": 1775837000749,
     "nombre": "LINTERNA MINERA CON SENSOR ",
-    "precio": 7600,
+    "precio": 5500,
     "foto": "https://i.postimg.cc/bNBhj671/7ee3646d-173d-4170-8ffd-c01cfcc062e7.jpg",
     "categoria": "ILUMINACION",
     "suspendido": false
@@ -2402,7 +2370,7 @@
   {
     "id": 1777039519573,
     "nombre": "NEBULIZADOR ADULTO NIÑO RECARGABLE Y A PILAS ",
-    "precio": 17100,
+    "precio": 18600,
     "foto": "https://i.postimg.cc/bvnZ0p8f/41da3265-05e3-425d-8473-f36d0019eda2.jpg",
     "categoria": "HOGAR",
     "suspendido": false
@@ -2521,8 +2489,8 @@
   },
   {
     "id": 1778684115880,
-    "nombre": "GUANTE MAGICO GRUESO ",
-    "precio": 1200,
+    "nombre": "GUANTE MAGICO GRUESO X12",
+    "precio": 12000,
     "foto": "https://i.postimg.cc/rph0WxbQ/adaf459e-df82-4f5f-81f8-b88b5607a9c4.jpg",
     "categoria": "INVIERNO ",
     "suspendido": false
@@ -2602,7 +2570,7 @@
   {
     "id": 1779819986593,
     "nombre": "LINTERNA LED USB RECARGABLE SF-502A ",
-    "precio": 3800,
+    "precio": 3950,
     "foto": "https://i.postimg.cc/L66C6C3S/11c153e8-abb4-41b6-83c5-18563960c137.jpg",
     "categoria": "ILUMINACION",
     "suspendido": true
@@ -2718,14 +2686,6 @@
     "foto": "https://i.postimg.cc/RF6RzB89/19608492-11ba-4872-b589-6705ae837bd1.jpg",
     "categoria": "TERMOS Y VASOS",
     "suspendido": true
-  },
-  {
-    "id": 1781186579653,
-    "nombre": "CALCULADORA KARUDIA 12 DIGITOS KK-2100",
-    "precio": 5600,
-    "foto": "https://i.postimg.cc/fWdK2Mmz/443e399e-38e3-4591-9ea8-d644a4e59e72.jpg",
-    "categoria": "LIBRERIA",
-    "suspendido": false
   },
   {
     "id": 1781186686324,
@@ -3378,7 +3338,7 @@
   {
     "id": 1783898440013,
     "nombre": "PIZARRA LED 20 X30 ACRILICA COLORES NEON",
-    "precio": 9380,
+    "precio": 9500,
     "foto": "https://i.postimg.cc/VsXBy9Qx/LED-83097.jpg",
     "categoria": "NIÑOS",
     "suspendido": false
@@ -3717,6 +3677,326 @@
     "precio": 14250,
     "foto": "https://i.postimg.cc/RVdpJ8N7/image.png",
     "categoria": "TERMOS Y VASOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784474507156,
+    "nombre": "MAQUINA DE COSER A220V/ INCLUYE FUENTE",
+    "precio": 20200,
+    "foto": "https://i.postimg.cc/mDGVj1p1/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784474842219,
+    "nombre": "ASPIRADORA 6 EN 1",
+    "precio": 8300,
+    "foto": "https://i.postimg.cc/W3CZ8B1J/image.png",
+    "categoria": "HERRAMIENTAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784474967496,
+    "nombre": "CALENTADOR DE AGUA 1500W",
+    "precio": 3750,
+    "foto": "https://i.postimg.cc/9Xy0sRxK/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475142196,
+    "nombre": "LAMPARA MATAMOSQUITO TIPO FAROL",
+    "precio": 9550,
+    "foto": "https://i.postimg.cc/sDXF7bZ9/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475224607,
+    "nombre": "MOPA AUTOMATICA 360° C/ MICROFIBRA",
+    "precio": 10500,
+    "foto": "https://i.postimg.cc/7htWKYT0/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475364574,
+    "nombre": "PORTA ROLLO PAPEL HIEGIENICO",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/VkQRmC1X/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475439803,
+    "nombre": "PURIFICADOR DE AGUA",
+    "precio": 6700,
+    "foto": "https://i.postimg.cc/15xC5Trq/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475562436,
+    "nombre": " SACA PELUSA DE ROPA",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/XYskFDdD/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475649452,
+    "nombre": "SET BAÑO 6 PIEZAS GRIS C/NEGRO",
+    "precio": 19900,
+    "foto": "https://i.postimg.cc/P5JwGfvC/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475737849,
+    "nombre": "TENDER DE ROPA PARA PARED EXTENSIBLE 12M",
+    "precio": 15700,
+    "foto": "https://i.postimg.cc/YCTjJ6ws/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784475779306,
+    "nombre": "TERMOMETRO",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/FsRRzWFN/image.png",
+    "categoria": "HOGAR",
+    "suspendido": false
+  },
+  {
+    "id": 1784476147425,
+    "nombre": "LAMPARA DE ESCRITORIO PLEGABLE",
+    "precio": 10700,
+    "foto": "https://i.postimg.cc/7hrWcQBP/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784476305088,
+    "nombre": "LINTERNA CON PARLANTE MP3",
+    "precio": 7400,
+    "foto": "https://i.postimg.cc/k5twmvRZ/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784476425444,
+    "nombre": "LINTERNA LED ZOOM TELESCÓPICO Y LUZ LATERAL TIPO COB",
+    "precio": 5050,
+    "foto": "https://i.postimg.cc/SRQWJ6jS/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784476739238,
+    "nombre": "LINTERNA MULTIFUNCIONAL C/ PANEL SOLAR",
+    "precio": 9750,
+    "foto": "https://i.postimg.cc/PqrpbXTp/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477109942,
+    "nombre": "LUZ DE EMERGENCIA 60LED C/ENCHUFE",
+    "precio": 14000,
+    "foto": "https://i.postimg.cc/g0P4G6V5/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477230454,
+    "nombre": "LUZ LED EMERGENCIA 30 LED",
+    "precio": 4990,
+    "foto": "https://i.postimg.cc/j517dpVc/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477339790,
+    "nombre": "LUZ P/BICI RECARGABLE LED",
+    "precio": 1960,
+    "foto": "https://i.postimg.cc/cLTMG5JM/image.png",
+    "categoria": "TODO PARA BICI Y MOTOS ",
+    "suspendido": false
+  },
+  {
+    "id": 1784477439911,
+    "nombre": "PROYECTOR ASTRONAUTA",
+    "precio": 14000,
+    "foto": "https://i.postimg.cc/L8yfbYyf/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477533450,
+    "nombre": "PROYECTOR ATARDECER",
+    "precio": 7500,
+    "foto": "https://i.postimg.cc/Dwz4Lf2G/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477573694,
+    "nombre": "PROYECTOR LASER",
+    "precio": 17500,
+    "foto": "https://i.postimg.cc/KjFRzxqP/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477684983,
+    "nombre": "TIRA LED NEON COLORES 5M",
+    "precio": 10600,
+    "foto": "https://i.postimg.cc/ZK55Df1z/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477776942,
+    "nombre": "TIRA LED PARA TV 3M RGB",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/kG1qmmkn/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784477841862,
+    "nombre": "VELADOR TOUCH 3 TONOS MELECH-",
+    "precio": 9700,
+    "foto": "https://i.postimg.cc/26TfQYjd/image.png",
+    "categoria": "ILUMINACION",
+    "suspendido": false
+  },
+  {
+    "id": 1784478439028,
+    "nombre": "BUFANDA NUBE BCO/VERDE/GRIS/ESTAMPADOS",
+    "precio": 11500,
+    "foto": "https://i.postimg.cc/HLXMsZYz/image.png",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1784478476922,
+    "nombre": "CUELLO PELUCHE",
+    "precio": 2000,
+    "foto": "https://i.postimg.cc/KcJMzgbv/image.png",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1784478519835,
+    "nombre": "BOLSA DE AGUA CALIENTE",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/TPMySVVj/image.png",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1784478560321,
+    "nombre": "GORRO LANA INTERIOR CORDERITO",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/zvcvkKD3/image.png",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1784478608471,
+    "nombre": "GUANTE POLAR 3 A 6 AÑOS PACK X12",
+    "precio": 14500,
+    "foto": "https://i.postimg.cc/7Z7hg5FY/image.png",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1784478742282,
+    "nombre": "PASAMONTAÑA TERMICO PRIMERA PIEL",
+    "precio": 2500,
+    "foto": "https://i.postimg.cc/PJpTTchx/image.png",
+    "categoria": "INVIERNO ",
+    "suspendido": false
+  },
+  {
+    "id": 1784478909681,
+    "nombre": "CALCULADORA KARUIDA",
+    "precio": 3900,
+    "foto": "https://i.postimg.cc/1z7zSDwx/image.png",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1784479168737,
+    "nombre": "CINTA DE EMBALAR X 90 MTS",
+    "precio": 1750,
+    "foto": "https://i.postimg.cc/4N22zdz8/image.png",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1784479243530,
+    "nombre": "MARCADORES DOBLE PUNTA X24PCS",
+    "precio": 4480,
+    "foto": "https://i.postimg.cc/44BWgdFZ/image.png",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1784479330921,
+    "nombre": "TIJERA MEDIANA",
+    "precio": 1750,
+    "foto": "https://i.postimg.cc/bw2gkRYN/image.png",
+    "categoria": "LIBRERIA",
+    "suspendido": false
+  },
+  {
+    "id": 1784479591499,
+    "nombre": "JUEGO DE MESA INTERACTIVO BASTA",
+    "precio": 14500,
+    "foto": "https://i.postimg.cc/N0C65NZJ/image.png",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784479643198,
+    "nombre": "LAMPARA SILICONA INFANTIL CAMBIOS DE COLOR TACTIL",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/T3RgQM6r/image.png",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784479684567,
+    "nombre": "PARAGUAS DISEÑO INFANTIL",
+    "precio": 4400,
+    "foto": "https://i.postimg.cc/4y6Hbw2v/image.png",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784479720007,
+    "nombre": "PELOTA DE GOMA",
+    "precio": 950,
+    "foto": "https://i.postimg.cc/GmhTGFF8/image.png",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784479875868,
+    "nombre": "PELOTA SPINNER VOLADOR",
+    "precio": 5600,
+    "foto": "https://i.postimg.cc/RFzMQmky/image.png",
+    "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784479912160,
+    "nombre": "PIZARRA 8.5PLG PERSONAJES",
+    "precio": 4200,
+    "foto": "https://i.postimg.cc/v8hQ9p3C/image.png",
+    "categoria": "NIÑOS",
     "suspendido": false
   }
 ]
