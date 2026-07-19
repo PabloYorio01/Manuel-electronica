@@ -1256,14 +1256,6 @@
     "suspendido": false
   },
   {
-    "id": 352,
-    "nombre": "CABLE USB  V8 3.1 BOLSA",
-    "precio": 1150,
-    "foto": "https://i.postimg.cc/pVYqVtf7/IMG-8046.jpg",
-    "categoria": "CABLES CELULAR ",
-    "suspendido": false
-  },
-  {
     "id": 353,
     "nombre": "CABLE TIPO C A TIPO C 1 MT",
     "precio": 2500,
@@ -2853,7 +2845,7 @@
     "precio": 7450,
     "foto": "https://i.postimg.cc/yNGr7p7z/aa0a21bf-121a-4bc2-b262-a180990a4b82.jpg",
     "categoria": "CARGADORES",
-    "suspendido": false
+    "suspendido": true
   },
   {
     "id": 1783475540039,
