@@ -250,7 +250,7 @@
   {
     "id": 59,
     "nombre": "PARLANTE K12 CON 2 MICROFONO Y RELOJ SMART OK-2",
-    "precio": 30400,
+    "precio": 27900,
     "foto": "https://i.postimg.cc/pdbk3mKB/H83.jpg",
     "categoria": "RELOJES",
     "suspendido": false
@@ -276,7 +276,7 @@
     "nombre": "BALANZA COCINA 10 KG",
     "precio": 5800,
     "foto": "https://i.postimg.cc/k55MHp8K/Whats-App-Image-2025-09-10-at-23-33-21-1.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -500,7 +500,7 @@
     "nombre": "BALANZA GRAMERA DE PRECISION 0.01-500G",
     "precio": 5900,
     "foto": "https://i.postimg.cc/BnscHD25/84dbcfe5-065c-4428-8998-feda9999bcef.jpg",
-    "categoria": "VARIOS",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -840,17 +840,9 @@
     "suspendido": false
   },
   {
-    "id": 224,
-    "nombre": "REPETIDOR WIFI",
-    "precio": 14200,
-    "foto": "https://i.postimg.cc/PJrJV3CP/1f1f9d71-3294-406c-a222-53769034986b.jpg",
-    "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
     "id": 227,
     "nombre": "KIT AURICULAR Y RELOJ SMART C/MALLA INTERCAMBIABLE",
-    "precio": 22400,
+    "precio": 22700,
     "foto": "https://i.postimg.cc/nzWG0zZv/RELOS-7-MALLAS.jpg",
     "categoria": "RELOJES",
     "suspendido": true
@@ -858,7 +850,7 @@
   {
     "id": 231,
     "nombre": "RELOJ SMARTWATCH ULTRA 10 BIG C/ 7 MALLAS",
-    "precio": 14800,
+    "precio": 14980,
     "foto": "https://i.postimg.cc/QCtxx8Wn/TH7-3.jpg",
     "categoria": "RELOJES",
     "suspendido": false
@@ -972,7 +964,7 @@
     "nombre": "BALANZA PERSONAL CUADRADA 180 K",
     "precio": 11500,
     "foto": "https://i.postimg.cc/mk0Dm5d4/BALANZACUADRADA.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -1013,14 +1005,6 @@
     "precio": 11700,
     "foto": "https://i.postimg.cc/3wMz5Yht/soportetv.jpg",
     "categoria": "VARIOS",
-    "suspendido": false
-  },
-  {
-    "id": 292,
-    "nombre": "RELOJ DIGITAL ALARMA/FECHA/TERMOMETRO",
-    "precio": 3900,
-    "foto": "https://i.postimg.cc/nzZ9Nzrt/reloj.jpg",
-    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -1744,22 +1728,6 @@
     "suspendido": true
   },
   {
-    "id": 463,
-    "nombre": "RELOJ DESPERTADOR MEDIANDO DE 9,5 X 9,5",
-    "precio": 3950,
-    "foto": "https://i.postimg.cc/vBkGhKqL/IMG-8197.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
-    "id": 464,
-    "nombre": "RELOJ DESPERTADOR",
-    "precio": 2500,
-    "foto": "https://i.postimg.cc/rwjc3sZz/IMG-8198.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
-  },
-  {
     "id": 465,
     "nombre": "BOMBA DISPENSER CON LUZ",
     "precio": 6550,
@@ -1844,7 +1812,7 @@
     "nombre": "BALANZA DE COCINA CON BOWL 10KG",
     "precio": 5950,
     "foto": "https://i.postimg.cc/wj2y26hq/IMG-8186.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -1860,7 +1828,7 @@
     "nombre": "TENSIOMETRO",
     "precio": 16800,
     "foto": "https://i.postimg.cc/6qV5Q0cT/IMG-8189.jpg",
-    "categoria": "VARIOS",
+    "categoria": "HOGAR",
     "suspendido": false
   },
   {
@@ -1962,7 +1930,7 @@
   {
     "id": 509,
     "nombre": "MICROFONO KARAOKE",
-    "precio": 7600,
+    "precio": 7850,
     "foto": "https://i.postimg.cc/c6yK6CfB/IMG-8227.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2194,7 +2162,7 @@
   {
     "id": 1775837565671,
     "nombre": "PARLANTE BT INALAMBRICO KTS 1677",
-    "precio": 8100,
+    "precio": 8750,
     "foto": "https://i.postimg.cc/L5qMqLfh/19032dbb-3638-4dfd-9d30-4d17f9ad5c89.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2354,7 +2322,7 @@
   {
     "id": 1777039364092,
     "nombre": "PARLANTE BT INALAMBRICO GTS 1679",
-    "precio": 7850,
+    "precio": 8700,
     "foto": "https://i.postimg.cc/wjvJmC79/1f381fb6-5377-423d-ab82-0c57bb1e2af2.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -2398,14 +2366,6 @@
     "foto": "https://i.postimg.cc/RVb8KzXp/fa0d2796-118f-4c15-b5a2-0f54045feab7.jpg",
     "categoria": "TODO PARA HOMBRES",
     "suspendido": false
-  },
-  {
-    "id": 1777039984277,
-    "nombre": "RELOJ DESPERTADOR ALARMA CAMPANA ",
-    "precio": 8950,
-    "foto": "https://i.postimg.cc/jdXfFspt/d750c1f5-24db-4594-bb77-fc0e2bd3a5c3.jpg",
-    "categoria": "HOGAR",
-    "suspendido": true
   },
   {
     "id": 1777558725685,
@@ -2644,7 +2604,7 @@
     "nombre": "BALANZA GRAMERA ",
     "precio": 6950,
     "foto": "https://i.postimg.cc/Yq0j1PKC/c4a2fbb9-61f3-4461-873b-43ce278377c0.jpg",
-    "categoria": "VARIOS",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -2816,14 +2776,6 @@
     "suspendido": true
   },
   {
-    "id": 1783475595288,
-    "nombre": "RELOJ DESPERTADOR DIGITAL MULTIFUNCION ",
-    "precio": 6900,
-    "foto": "https://i.postimg.cc/vHkttfsJ/4bbf61db-4d2f-4e24-baf4-d534d8fc1ff4.jpg",
-    "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
     "id": 1783475660646,
     "nombre": "LINTERNA DE CAMPING MULTIFUNCION + PANEL SOLAR ",
     "precio": 18600,
@@ -2956,7 +2908,7 @@
     "nombre": "BALANZA 50 KG EQUIPAJESMILE ",
     "precio": 4650,
     "foto": "https://i.postimg.cc/3N6q5S7G/CX-E02.jpg",
-    "categoria": "HOGAR",
+    "categoria": "BALANZAS",
     "suspendido": false
   },
   {
@@ -3117,14 +3069,6 @@
     "precio": 15750,
     "foto": "https://i.postimg.cc/wTzHw2Fb/HD-71074.jpg",
     "categoria": "TECNOLOGIA",
-    "suspendido": false
-  },
-  {
-    "id": 1783894565432,
-    "nombre": "HTTPS://I.POSTIMG.CC/NFYVKJY4/TRP-72008.JPG",
-    "precio": 6440,
-    "foto": "https://i.postimg.cc/NFYVkJY4/TRP-72008.jpg",
-    "categoria": "VARIOS",
     "suspendido": false
   },
   {
@@ -3290,7 +3234,7 @@
   {
     "id": 1783897822119,
     "nombre": "PARLANTE BT CON LUZ C/1 MIC",
-    "precio": 8960,
+    "precio": 10300,
     "foto": "https://i.postimg.cc/PJfGjXJp/K18.jpg",
     "categoria": "PARLANTES",
     "suspendido": false
@@ -3445,14 +3389,6 @@
     "precio": 3900,
     "foto": "https://i.postimg.cc/HWZT0Scs/image.png",
     "categoria": "HOGAR",
-    "suspendido": false
-  },
-  {
-    "id": 1784413471673,
-    "nombre": "ESTABILIZADOR C/ MICROFONO Y LUZ",
-    "precio": 15200,
-    "foto": "https://i.postimg.cc/qvn0T4mX/image.png",
-    "categoria": "ILUMINACION",
     "suspendido": false
   },
   {
@@ -3997,6 +3933,190 @@
     "precio": 4200,
     "foto": "https://i.postimg.cc/v8hQ9p3C/image.png",
     "categoria": "NIÑOS",
+    "suspendido": false
+  },
+  {
+    "id": 1784480304127,
+    "nombre": "PARLANTE 3 PLG SKULL POPART",
+    "precio": 8200,
+    "foto": "https://i.postimg.cc/L6SxdWSq/image.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1784480403734,
+    "nombre": "PARLANTE 3PLG BLUETOOHT/FM/MP3",
+    "precio": 10900,
+    "foto": "https://i.postimg.cc/NGDHMCXW/image.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1784480514446,
+    "nombre": "PARLANTE 3PLG BT C/M",
+    "precio": 7200,
+    "foto": "https://i.postimg.cc/tC14jBz9/image.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1784480571795,
+    "nombre": "PARLANTE 3PLG C/ LUZ BLUETOOTH/FM/MP",
+    "precio": 6300,
+    "foto": "https://i.postimg.cc/8zRDp9Jt/image.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1784480620304,
+    "nombre": "PARLANTE 3PLG SOLO NEGRO GTS-2288",
+    "precio": 5900,
+    "foto": "https://i.postimg.cc/WpxhhRzd/image.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1784480706750,
+    "nombre": "PARLANTE BT LUZ",
+    "precio": 6750,
+    "foto": "https://i.postimg.cc/GhJdr6sD/image.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1784480810962,
+    "nombre": "PARLANTE BT REDONDO C/LUZ RGB",
+    "precio": 9200,
+    "foto": "https://i.postimg.cc/j5VFDdp2/image.png",
+    "categoria": "PARLANTES",
+    "suspendido": false
+  },
+  {
+    "id": 1784481044839,
+    "nombre": "RELOJ DESPERTADOR CAMPANA",
+    "precio": 10450,
+    "foto": "https://i.postimg.cc/mr3QSLcg/image.png",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1784481140543,
+    "nombre": "RELOJ DIGITAL CON TERMOMETRO",
+    "precio": 4200,
+    "foto": "https://i.postimg.cc/SsNz7WbN/image.png",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1784483162619,
+    "nombre": "RELOJ DIGITAL FECHA/ALARMA/TEMP",
+    "precio": 4750,
+    "foto": "https://i.postimg.cc/Kz3SkHpD/image.png",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1784483207224,
+    "nombre": "RELOJ INTELIGENTE V20PRO",
+    "precio": 18300,
+    "foto": "https://i.postimg.cc/RZSkQFbS/image.png",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1784483248553,
+    "nombre": "RELOJ SMART WATCH MACARRON",
+    "precio": 6450,
+    "foto": "https://i.postimg.cc/4NZqsyGH/image.png",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1784483340406,
+    "nombre": "RELOJ SMART/PARLANTE/MOCROFONO BT",
+    "precio": 27900,
+    "foto": "https://i.postimg.cc/Yqbn7x88/image.png",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1784483426409,
+    "nombre": "SET DE AURICULAR VINCHA BT P9 SERIE 10 C/RELOJ SMART",
+    "precio": 29200,
+    "foto": "https://i.postimg.cc/qqpwVtK4/image.png",
+    "categoria": "RELOJES",
+    "suspendido": false
+  },
+  {
+    "id": 1784484348307,
+    "nombre": "BALANZA DIGITAL DE BAÑO PERSONAL",
+    "precio": 11700,
+    "foto": "https://i.postimg.cc/XqX87Rs2/image.png",
+    "categoria": "BALANZAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784484387087,
+    "nombre": "BALANZA MINI DIGITAL A PILA",
+    "precio": 8100,
+    "foto": "https://i.postimg.cc/htV0jb0S/image.png",
+    "categoria": "BALANZAS",
+    "suspendido": false
+  },
+  {
+    "id": 1784484523093,
+    "nombre": "SOPORTE BICI",
+    "precio": 3300,
+    "foto": "https://i.postimg.cc/bv3kD6SY/image.png",
+    "categoria": "SOPORTE CELU/TV",
+    "suspendido": false
+  },
+  {
+    "id": 1784484564789,
+    "nombre": "SOPORTE CELU BICI/AUTO",
+    "precio": 2950,
+    "foto": "https://i.postimg.cc/ZqKjMvr5/image.png",
+    "categoria": "SOPORTE CELU/TV",
+    "suspendido": false
+  },
+  {
+    "id": 1784484599553,
+    "nombre": "SOPORTE CELU MANITO",
+    "precio": 790,
+    "foto": "https://i.postimg.cc/SN6rQfdS/image.png",
+    "categoria": "SOPORTE CELU/TV",
+    "suspendido": false
+  },
+  {
+    "id": 1784484638735,
+    "nombre": "SOPORTE CELU UNIVERSAL CUELLO FLEXIBLE CON VENTOSA",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/gjvvJGvf/image.png",
+    "categoria": "SOPORTE CELU/TV",
+    "suspendido": false
+  },
+  {
+    "id": 1784484671695,
+    "nombre": "SOPORTE DE CELU P/DIFERENTES SUPERFICIES Y AUTOS",
+    "precio": 2300,
+    "foto": "https://i.postimg.cc/XvmFkrLd/image.png",
+    "categoria": "SOPORTE CELU/TV",
+    "suspendido": false
+  },
+  {
+    "id": 1784484711348,
+    "nombre": "PALO SELFIE BLUETOOH +TRIPODE Y LUZ",
+    "precio": 4500,
+    "foto": "https://i.postimg.cc/hPsd3yMS/image.png",
+    "categoria": "SOPORTE CELU/TV",
+    "suspendido": false
+  },
+  {
+    "id": 1784484803424,
+    "nombre": "SOPORTE FIJO TV 26-63 PLG",
+    "precio": 5670,
+    "foto": "https://i.postimg.cc/hjRvGTph/image.png",
+    "categoria": "SOPORTE CELU/TV",
     "suspendido": false
   }
 ]
